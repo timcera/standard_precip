@@ -1,4 +1,4 @@
-from standard_precip.base_sp import BaseStandardIndex
+from .base_sp import BaseStandardIndex
 
 
 class SPI(BaseStandardIndex):

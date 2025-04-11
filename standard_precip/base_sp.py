@@ -5,7 +5,7 @@ import pandas as pd
 import scipy.stats as scs
 import matplotlib.pyplot as plt
 
-from standard_precip.lmoments import distr
+from .lmoments import distr
 
 
 class BaseStandardIndex():
